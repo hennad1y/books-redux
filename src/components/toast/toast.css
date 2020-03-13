@@ -1,0 +1,9 @@
+.toast-wrapper {
+    position: fixed !important;
+    right: 20px;
+    top: 20px;
+    width: calc(100% - 40px);
+    z-index: -1;
+    height: auto;
+    min-height: 0 !important;
+}

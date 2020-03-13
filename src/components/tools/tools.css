@@ -1,0 +1,13 @@
+.tools .input-group {
+    width: auto;
+    align-items: center;
+    margin: 1rem 1rem;
+}
+
+.tools > .row {
+    justify-content: space-between;
+}
+
+.react-hooks-paginator {
+    padding: 0 1rem;
+}

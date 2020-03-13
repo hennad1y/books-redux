@@ -1,0 +1,25 @@
+.card {
+    height: 100%;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-body a {
+    align-self: start;
+}
+
+.card-body i {
+    position: absolute;
+    bottom: 30px;
+    right: 1.25rem;
+    cursor: pointer;
+}
+
+.card-img-top {
+    height: 375px;
+    object-fit: cover;
+}
